@@ -1,0 +1,11 @@
+.TodoList {
+    background-color: white;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 10px 40px;
+    line-height: 30px;
+    font-size: 20px;
+    width: 300px;
+}
